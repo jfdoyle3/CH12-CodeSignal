@@ -1,2 +1,3 @@
-# startRepo
-Repo that has my current .gitignore 2/12/2022
+# Code Signal
+
+Algorithms From Code Signal
